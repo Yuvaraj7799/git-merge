@@ -1,0 +1,5 @@
+echo "hiii good mrng "
+echo "this is the 1st program to connect to remote server git "
+echo "This is the 1st code that is pushed to the remote repository"
+echo "Today date is:"
+date
